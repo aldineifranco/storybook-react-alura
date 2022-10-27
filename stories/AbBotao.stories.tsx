@@ -12,7 +12,7 @@ const Template: ComponentStory<typeof AbBotao> = args => <AbBotao {...args} />;
 export const Primario = Template.bind({});
 
 Primario.args = {
-  texto: 'Ab Botão Primário',
+  texto: 'Clique para Enviar',
   tipo: 'primario',
 } as AbBotaoProps;
 
