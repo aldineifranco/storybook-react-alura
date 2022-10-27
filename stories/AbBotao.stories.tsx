@@ -19,6 +19,6 @@ Primario.args = {
 export const Secundario = Template.bind({});
 
 Secundario.args = {
-  texto: 'Ab Botão Primário',
+  texto: 'Enviar',
   tipo: 'secundario',
 } as AbBotaoProps;
